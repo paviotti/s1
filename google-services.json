@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969347190760",
+    "project_id": "salin-1",
+    "storage_bucket": "salin-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969347190760:android:b296b9f7f69f66bbb41e5d",
+        "android_client_info": {
+          "package_name": "com.paviotti.s1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969347190760-12lsjmo8uevmok39r776f57vmeuqgvqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfK1KCbVlMCJd_4Svj3KnR5FoMiPrtFBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969347190760-12lsjmo8uevmok39r776f57vmeuqgvqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
